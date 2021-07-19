@@ -5,7 +5,7 @@
 #     /coco
 #     /yolov5
 
-#110000
+#11000000000
 # download command/URL (optional)
 download: bash data/scripts/get_coco.sh
 
